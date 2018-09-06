@@ -7,6 +7,7 @@ Given the number of stations and delay time, it outputs delay characteristics an
 ![result_graph1](graph1.png "graph1")
 
 ![result_graph2](graph2.png "graph2")
+![result_graph3](graph3.png "graph3")
 
 ## Usage
 ```
